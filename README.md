@@ -18,7 +18,7 @@
 [Home server package](https://github.com/users/MichaelODeli/projects/3) -
 [Math differential game](https://github.com/MichaelODeli/py_shofer-killer) -
 [Minecraft mod manager](https://github.com/MichaelODeli/py_mine-mod-analyzer) -
-[Solving a mathematical Cartesian problem](https://github.com/MichaelODeli/py_dekart-math) -
+[Solving a mathematical Cartesian problem](https://github.com/MichaelODeli/py_dekart-math)
 
 
 <!--
