@@ -9,29 +9,25 @@
 #### Known languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 #### Curretly learning:
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![SQLITE](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+#### I want to learn in future...   
+![C-Sharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## My projects:
-[Home server package](https://github.com/users/MichaelODeli/projects/3) -
-[Math differential game](https://github.com/MichaelODeli/py_shofer-killer) -
-[Minecraft mod manager](https://github.com/MichaelODeli/py_mine-mod-analyzer) -
-[Solving a mathematical Cartesian problem](https://github.com/MichaelODeli/py_dekart-math)
+## My main projects:
+- [Home server package](https://github.com/users/MichaelODeli/projects/3)
+- [Math differential game](https://github.com/MichaelODeli/py_shofer-killer)
+- [VK Test Task with tests](https://github.com/MichaelODeli/py_vk-test-task)
+- [Solving a mathematical Cartesian problem](https://github.com/MichaelODeli/py_dekart-math)
 
+## My Codewars results
+![Codewars ranking](https://www.codewars.com/users/MichaelODeli/badges/small)
 
-<!--
-**MichaelODeli/MichaelODeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Something about me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on RZD Project
+- 🌱 I’m currently learning Python :)
+- 📫 How to reach me: tg: @michaelodeli
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
