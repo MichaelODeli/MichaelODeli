@@ -29,7 +29,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![basic](https://img.shields.io/badge/Basic-black?style=for-the-badge)    
 
 ### Curretly learning:
-![clickhouse](https://img.shields.io/badge/Clickhouse-black?style=for-the-badge)
 
 
 ### Soon...
