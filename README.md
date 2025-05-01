@@ -36,8 +36,4 @@
 ## My Codewars results
 ![Codewars ranking](https://www.codewars.com/users/MichaelODeli/badges/small)
 
-## Something about me
-
-- 🌱 I’m currently learning Python :)
-- 📫 How to reach me: tg: @michaelodeli
 
